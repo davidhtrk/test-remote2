@@ -8,5 +8,9 @@
 <body>
 	<h1>Hello Sekai</h1>
 	<p>Ohayooo</p>
+	<ul>
+		<li>OKE</li>
+		<li>OI OI</li>
+	</ul>
 </body>
 </html>
